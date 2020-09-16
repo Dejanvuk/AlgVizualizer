@@ -1,0 +1,34 @@
+div#algolist {
+    display: table;  /* Instead of display:block */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul.list {
+    text-align: center;
+    list-style-type: none;
+}
+
+li.algorithm {
+    float: left;
+    padding: 0px 5px 5px 5px;
+    margin: 25px 25px 25px 25px;
+    background-color: lightblue;
+}
+
+li.algorithm:hover {
+    background-color: lightskyblue;
+  }
+
+li.algoritm > #text { text-align: justify; }    
+
+div.info > h3 {
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+a.thumbnail > img {
+    margin-top: 5px;
+}

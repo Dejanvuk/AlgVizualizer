@@ -1,0 +1,83 @@
+.login-container {
+    max-width: 420px;
+    margin: 0 auto;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+
+.loginLabels {
+   float: left;
+   margin-top: 5px;
+   margin-bottom: 5px;
+   margin-left: 5px;
+}
+
+label.form-check-label {
+    margin-left: 5px;
+}
+
+#loginBtn {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.or-seperator {
+    margin-top:5px;
+    margin-bottom:5px;
+    width:100%;
+    border-top:1px solid gray;
+}
+
+.social-btn {
+    width: 250px;
+}
+
+.btnOauth2 {
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+    background: white;
+    color: #444;
+    border-radius: 5px;
+    border: thin solid #888;
+    box-shadow: 1px 1px 1px grey;
+    white-space: nowrap;
+}
+
+.btnOauth2:hover {
+    cursor: pointer;
+  }
+
+#btnGoogle {
+    background-image: url(/public/images/google-logo.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    padding-left: 40px;
+}
+
+#btnFacebook {
+    background-image: url(/public/images/facebook-logo.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    padding-left: 40px;
+}
+
+#btnGithub {
+    background-image: url(/public/images/github-logo.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    padding-left: 40px;
+}
+
+#errorText {
+    color: red;
+}
+
+.forgot-password {
+    display: block;
+    padding-left: 1.25rem;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}

@@ -1,0 +1,16 @@
+img.avi {
+    max-width:100px;
+    margin-top: -7px;
+    border-radius: 50%;
+    height: 32px;
+    width: 32px;
+    margin-right: 12px;
+}
+
+.userName {
+    margin-right: 12px;
+}
+
+.loginBtn {
+    margin-right: 12px;
+}
