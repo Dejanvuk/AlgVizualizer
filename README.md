@@ -30,6 +30,6 @@ docker run -p 3000:80 <name>/frontend
 
 ## Built With
 
-* [Spring](https://spring.io/projects/spring-framework) - The web framework used for blockchain
+* [Spring](https://spring.io/projects/spring-framework) - The web framework used for user logging system
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [ReactJS](https://reactjs.org/) - Framework of choice for the frontend
