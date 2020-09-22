@@ -2,6 +2,12 @@
 
 React/Redux app made to vizualize the most common sorting algorithms in real time 2D
 
+Features:
+
+- 5 sorting algorithms
+- sign in & register using JPA
+- oauth2 sign in with support for google, facebook, github
+
 ### Installing
 
 ```
